@@ -2,9 +2,9 @@
 
 /**
  * main - Entry point
- * print data using puts and 
+ * print data using puts and
  * Return: Always 0 (Success)
- */
+*/
 
 
 int main(void)
